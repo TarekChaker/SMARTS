@@ -1,3 +1,3 @@
 # SMARTS
 SMARTS software
-This sofware is designed to serve as service maintenance as application tool 
+This software is designed to serve as service maintenance-application tool 
